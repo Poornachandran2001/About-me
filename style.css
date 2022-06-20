@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+*{
+     margin: 0;
+     padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 10px;
+}
+body{
+    background:#FFFFFF;
+    background-position: 0 1000px;
+    font-family: "roboto",sans-serif;
+}
+.container{
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 0 3rem;
+    margin-top: 2rem;
+    text-align: left center;
+
+}
+h1{
+    color:#0000FF;
+    font-style: unset;
+    font-size: 3rem;
+     font-weight: 500;
+      letter-spacing: 1px;
+        margin-bottom: 1rem;
+}
+h2{
+    color:black;
+    font-size: 2rem;
+     font-weight: 500;
+    letter-spacing: 2px;
+     margin-bottom: 2rem;
+}
+h3{
+    color: #A0522D;
+    font-size: medium;
+    font-style:normal ;
+    letter-spacing: 2px;
+    line-height: 3rem;
+    margin-left: 20px;
+
+
+  
+  }
+  h4{
+    color:#0c0700;
+    font-size: medium;
+    font-style:normal ;
+    letter-spacing: 3px;
+     margin-bottom: 2rem;
+
+  }
+
+img {
+    object-position: right bottom;
+    border-radius: 18rem;
+
+    
+  }
+p{
+    font-size: 2rem; 
+    color: #0c0700;
+    line-height: 4rem;
+    margin-bottom: 3rem;
+}
+.btn{
+    display: inline-block;
+    padding: 1.7rem 1.5rem;
+    background: rgb(65, 62, 62);
+    font-size: 12px;
+    text-decoration: none;
+    color: #ffffff;
+border-radius: 10px;
+margin-bottom: 2rem;
+margin-left: 10px;
+
+}
+.btn:hover{
+    background: #29bdb0;
+}
+.fa{
+  margin-left: 10px;
+  margin-bottom: 1rem;
+}
+
+  
+  .fa:hover {
+    opacity: 0.4;
+  }
+
+.fa-skype {
+    background: #00aff0 ;
+    color: #ffffff;
+  }
+  .fa-linkedin {
+    background: #0e76a8 ;
+    color:#ffffff;
+  }
+  .fa-behance{
+    background:#002dff;
+    color:#ffffff;
+  }
+  .fa-instagram{
+
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+    -webkit-text-fill-color:white;
+  }
+
+  .fa {
+    padding: 20px;
+    font-size: 70px;
+    width: 50px;
+    text-align: left;
+    text-decoration: none;
+    border-radius: 100%;
+    
+  }
+  
+    
+  
