@@ -1,2 +1,3 @@
 # About-me
-we area lmost done
+we are almost done
+thanks for your patience
