@@ -1,3 +1,3 @@
 # About-me
-we are almost done
+# WE ARE ALMOST DONE.
 # thanks for your patience
