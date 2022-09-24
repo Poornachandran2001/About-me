@@ -1,2 +1,1 @@
-# About me
-We Are Almost Done.
+# We Are Almost Done.
