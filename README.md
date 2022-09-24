@@ -1,2 +1,2 @@
-# About-me
-#We Are Almost Done
+# About me
+We Are Almost Done.
